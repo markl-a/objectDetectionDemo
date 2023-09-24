@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # objectdetectionDemo
  使用客製化資料將detr transformer以及Yolov8模型部署在手機上
 (一)物體辨識 App 實作
@@ -41,3 +42,7 @@ iOS：
 將完成的應用程式發布到Google Play Store或Apple App Store。
 根據用戶反饋和需求進行後續的更新和優化。
 隱私和安全：確保應用程式符合資料保護法規，保護用戶隱私。
+=======
+# objectDetectionDemo
+ 使用客製化資料將 detr transformer 以及 Yolo v8 模型部署在手機上
+>>>>>>> 905fc80a24059943d8842fcd94576a620f1c4e7f
