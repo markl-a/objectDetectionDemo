@@ -1,3 +1,8 @@
+# Read Me
+ iOS 這部分主要是 [Yolov8-RealTime-iOS](https://github.com/john-rocky/Yolov8-RealTime-iOS/tree/main)的程式碼
+ 
+ 這邊只有適配修改以及模型我有重新根據自己的資料訓練
+
 # Reference:
 1. 重新快速入門： https://github.com/Lax/Learn-iOS-Swift-by-Examples
 2. 在 iOS 上使用 TensorFlow Lite： https://www.tensorflow.org/lite/guide/ios?hl=zh-cn
